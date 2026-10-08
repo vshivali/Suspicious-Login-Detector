@@ -4,6 +4,9 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/LoginDetector.iml" filepath="$PROJECT_DIR$/.idea/LoginDetector.iml" />
       <module fileurl="file://$PROJECT_DIR$/SuspiciousLoginDetector.iml" filepath="$PROJECT_DIR$/SuspiciousLoginDetector.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SuspiciousLoginDetector.main.iml" filepath="$PROJECT_DIR$/.idea/modules/SuspiciousLoginDetector.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SuspiciousLoginDetector.test.iml" filepath="$PROJECT_DIR$/.idea/modules/SuspiciousLoginDetector.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/docs.iml" filepath="$PROJECT_DIR$/docs.iml" />
     </modules>
   </component>
 </project>
